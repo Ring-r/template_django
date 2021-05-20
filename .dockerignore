@@ -1,0 +1,8 @@
+.dockerignore
+.git
+.gitignore
+Dockerfile
+docker_build.sh
+docker_run_dev.sh
+requirements_pin.sh
+requirements.in
